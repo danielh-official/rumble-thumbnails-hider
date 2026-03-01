@@ -1,6 +1,12 @@
-# WXT + Svelte
+# Rumble Thumbnails Hider
 
-This template should help get you started developing with Svelte in WXT.
+Browser extension that hides video thumbnails on [Rumble.com](https://rumble.com).
+
+## Development
+
+1. Install dependencies: `bun install`
+2. Build the extension: `bun run build`
+3. Load in Chrome/Edge: open `chrome://extensions`, enable "Developer mode", click "Load unpacked", and select the `.output` folder from this project.
 
 ## Recommended IDE Setup
 
