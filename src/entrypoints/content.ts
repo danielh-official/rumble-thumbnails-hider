@@ -1,4 +1,4 @@
-import './content.css';
+import '../assets/content.css';
 
 export default defineContentScript({
   matches: ['*://*.rumble.com/*', '*://rumble.com/*'],
