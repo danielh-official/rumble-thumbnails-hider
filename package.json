@@ -2,7 +2,7 @@
   "name": "rumble-thumbnails-hider",
   "description": "Block distracting, clickbaity thumbnails on Rumble.",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.0.1",
   "type": "module",
   "scripts": {
     "dev": "wxt",
